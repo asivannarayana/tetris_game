@@ -1,2 +1,1 @@
-# tetris_game
-GitOps Hands on project
+# tetris-game
